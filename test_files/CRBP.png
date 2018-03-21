@@ -1,0 +1,13 @@
+digraph tree {
+    "CRBPPPP";
+    "company_name";
+    "Corbus_Pharmaceuticals";
+    "drugssss";
+    "Anabasum";
+    "Lanabasum";
+    "CRBPPPP" -> "company_name";
+    "CRBPPPP" -> "drugssss";
+    "company_name" -> "Corbus_Pharmaceuticals";
+    "drugssss" -> "Anabasum";
+    "drugssss" -> "Lanabasum";
+}
