@@ -8,7 +8,7 @@ dev==0.4.0
 docutils==0.14
 idna==2.6
 imagesize==1.0.0
-Jinja2==2.10
+Jinja2==2.11.3
 lxml==4.1.1
 MarkupSafe==1.0
 matplotlib==2.1.2
